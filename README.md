@@ -1,2 +1,3 @@
-# sans-normalcy
-Libre sans serif font for the Abyss-1 theme, to replace Bauhaus
+**Sans Normalcy** is a sans-serif geometric typeface made by SYwaves and released under the SIL Open Font License.
+
+Sans Normalcy was made using [FontForge](https://fontforge.org/).
